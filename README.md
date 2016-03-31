@@ -5,7 +5,7 @@ String name = "world";
 
 logger.debug("Hello {name}.", name);
 
-// Produces an event where  name == "world"
+// Produces an event where name == "world"
 ```
 
 Currently planning the approach, all input welcome. For an idea of where this is headed check out [Serilog](http://serilog.net).
